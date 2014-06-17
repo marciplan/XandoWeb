@@ -21,9 +21,10 @@ body{
 	margin: 0 auto;
 }
 
-#header-cover{
-	background-image: url(../img/banners/home-banner.jpg);
-	width: 100%;
+#banner{
+	width: auto;
+	overflow: hidden;
+	max-height: 400px;
 }
 
 /* overwriting Foundation */
@@ -346,3 +347,9 @@ body{
 }
 
 
+
+/* Voor later terug te halen */
+
+.blue-bg-top, .blue-bg-bottom{
+	display: none;
+}
