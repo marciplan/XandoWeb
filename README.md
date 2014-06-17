@@ -7,7 +7,7 @@ Wij staan altijd open voor correcties aan de code, voel je dus vooral vrij om je
 
 ToDo:
 
--CMS
+- CMS
 
 
 
